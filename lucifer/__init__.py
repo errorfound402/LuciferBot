@@ -79,6 +79,7 @@ except ValueError:
         "Your whitelisted users list does not contain valid integers.")
 
 DB_URI = CONFIG['database_url']
+SUPPORT_CHAT = CONFIG['support_chat']
 LOAD = CONFIG['load']
 NO_LOAD = CONFIG['no_load']
 DEL_CMDS = CONFIG['del_cmds']
