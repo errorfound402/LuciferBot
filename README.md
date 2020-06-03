@@ -5,6 +5,8 @@
 [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](http://perso.crans.org/besson/LICENSE.html)
 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 Modular Telegram Bot for managing your group with additional features.
 
 [![lucifer](https://telegra.ph/file/6c8295a27003c2aaa67a3.jpg)](https://telegram.dog/lucifer_probot)
