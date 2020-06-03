@@ -1,6 +1,6 @@
 
 {
-  "name": "Heroku",
+  "name": "Marie-2.0 English",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
   "keywords": [
     "telegram",
@@ -9,7 +9,7 @@
     "manager",
     "3"
   ],
-  "repository": "https://github.com/thakorrohan22/LuciferBot",
+  "repository": "hhttps://github.com/thakorrohan22/LuciferBot",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables",
@@ -21,23 +21,23 @@
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1115280928"
+      "value": "683538773"
     },
     "OWNER_USERNAME": {
       "description": "Your username",
-      "value": "REST_IN_PISS"
+      "value": "ViruZs"
     },
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode messages",
-      "value": "False"
+      "value": "ANYTHING"
     },
     "URL": {
       "description": "The Heroku App URL similar to https://<appname>.herokuapp.com/",
-      "value": "None"
+      "value": ""
     },
     "MESSAGE_DUMP": {
       "description": "optional: a chat where your replied saved messages are stored, to stop people deleting their old",
-      "value": "None"
+      "value": "-1007777777777"
     },
     "SUDO_USERS": {
       "description": "A space separated list of user_ids which should be considered sudo users",
@@ -57,7 +57,7 @@
     },
     "PORT": {
       "description": "Port to use for your webhooks",
-      "value": "5000"
+      "value": "8443"
     },
     "DEL_CMDS": {
       "description": "Whether to delete commands from users which don't have rights to use that command",
@@ -74,19 +74,6 @@
     "BAN_STICKER": {
       "description": "Which sticker to use when banning people. Use https://telegram.dog/ShowJsonBot to get the file_id",
       "value": "CAADBAAD6AMAAkJ_EQNu_RjOszbmnxYE"
-    },
-    "API_KEY": {
-      "description": "YOUR KEY HERE.",
-      "value": ""
-    },
-    "NO_LOAD": {
-      "description": "No Load Modules.",
-      "value": "['translation', 'sed']"
-    },
-    "SQLALCHEMY_DATABASE_URI": {
-      "description": "db.",
-      "value": "sqldbtype://username:pw@hostname:port/db_name"
-      
     }
   },
   "addons": [
